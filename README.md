@@ -2,8 +2,8 @@
 # 👋 Olá, eu sou **Harley Gonçalves Teixeira**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harleygoncalvesteixeira&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/harleygoncalvesteixeira?style=for-the-badge&label=Seguidores)
-![GitHub Stars](https://img.shields.io/github/stars/harleygoncalvesteixeira?style=for-the-badge&label=Stars)
+[![GitHub Followers](https://img.shields.io/github/followers/harleygoncalvesteixeira?style=for-the-badge&label=Seguidores)](https://github.com/harleygoncalvesteixeira?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/harleygoncalvesteixeira/harleygoncalvesteixeira?style=for-the-badge&label=Stars)](https://github.com/harleygoncalvesteixeira/harleygoncalvesteixeira/stargazers)
 
 > 🧑‍💻 *Full‑Stack & AI Developer • Bacharel em Sistemas de Informação • Entregando soluções escaláveis, inteligentes e orientadas a dados.*
 
