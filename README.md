@@ -24,8 +24,8 @@
 |---------|-----------------|---------|
 | 2025‑Presente | **Desenvolvedor Full‑Stack Pleno** • Synthexa Integration Technology | IA e micro‑serviços escaláveis, pipelines CI/CD e automação de operações |
 | 2024‑Presente | **Desenvolvedor Full‑Stack Pleno** • H.Tech Consultoria | Sistemas web completos, integrações API first e performance tuning |
-| 2023‑2025 | **Full‑Stack Dev** • Conveste Serviços Financeiros | ASP.NET Core, Docker, Azure DevOps, BI com Python & Data Lakes |
-| 2022‑2023 | **Infra & RPA Analyst** | Automação UiPath, gestão de VMs, monitoramento e suporte avançado |
+| 2023‑2025 | **Full‑Stack Dev** • Conveste Serviços Financeiros | ASP.NET Core, Docker, Azure DevOps, Python & Data Lakes |
+| 2022‑2023 | **Infra & RPA** • Conveste Serviços Financeiros | Automação UiPath, gestão de VMs, monitoramento e suporte avançado |
 
 ---
 
