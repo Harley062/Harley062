@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 # 👋 Olá, eu sou **Harley Gonçalves Teixeira**
 
-![Profile Views](https://komarev.com/ghpvc/?username=harleygoncalvesteixeira&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/harleygoncalvesteixeira?style=for-the-badge&label=Seguidores)](https://github.com/harleygoncalvesteixeira?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/harleygoncalvesteixeira/harleygoncalvesteixeira?style=for-the-badge&label=Stars)](https://github.com/harleygoncalvesteixeira/harleygoncalvesteixeira/stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=Harley062&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Harley062?style=for-the-badge&label=Seguidores)](https://github.com/Harley062?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Harley062/Harley062?style=for-the-badge&label=Stars)](https://github.com/Harley062/Harley062/stargazers)
 
 > 🧑‍💻 *Full‑Stack & AI Developer • Bacharel em Sistemas de Informação • Entregando soluções escaláveis, inteligentes e orientadas a dados.*
 
@@ -56,7 +56,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-| <img src="https://github-readme-stats.vercel.app/api?username=harleygoncalvesteixeira&show_icons=true&theme=default" alt="Harley GitHub Stats" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleygoncalvesteixeira&layout=compact&theme=default" alt="Top Langs" height="160"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Harley062&show_icons=true&theme=default" alt="Harley GitHub Stats" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harley062&layout=compact&theme=default" alt="Top Langs" height="160"/> |
 |---|---|
 
 ---
