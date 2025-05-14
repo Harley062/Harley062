@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harley062&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/Harley062?style=for-the-badge&label=Seguidores)](https://github.com/Harley062?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Harley062/Harley062?style=for-the-badge&label=Stars)](https://github.com/Harley062/Harley062/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Harley062/Harley062?style=for-the-badge&label=Stars)](https://github.com/Harley062?tab=stars)
 
 > 🧑‍💻 *Full‑Stack & AI Developer • Bacharel em Sistemas de Informação • Entregando soluções escaláveis, inteligentes e orientadas a dados.*
 
