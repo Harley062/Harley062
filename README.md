@@ -13,7 +13,7 @@
 🎓 Bacharel em Sistemas de Informação (UEG) • +4 anos criando **arquiteturas robustas**, **IA aplicada** e **automação inteligente**. Meu propósito é transformar desafios de negócio em produtos e processos eficientes.
 
 - 🔧  **Arquitetura & DevOps** – Docker, Azure, CI/CD, Linux
-- 💻  **Full‑Stack** – React, Next.js, FastAPI, .NET Core, SQL Server, PostgreSQL
+- 💻  **Full‑Stack** – React, Next.js, FastAPI, **Python**, SQL Server, PostgreSQL
 - 🤖  **IA & RPA** – OpenAI, Sklearn, UiPath, Python
 - 📊  **Data & BI** – Pandas, Data Lakes, ETL pipelines
 
@@ -40,10 +40,10 @@
 ## 🛠️ Tech Stacks
 
 ### 🔥 Principal
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Ferramentas & DevOps
