@@ -18,7 +18,7 @@
 
 ### 💼 Stack principal
 - **Arquitetura & DevOps** · Docker · Azure · CI/CD · Linux
-- **Full-Stack** · React · Next.js · FastAPI · **Python** · SQL Server · PostgreSQL
+- **Full-Stack** · React · Next.js · FastAPI · **Python** · **C# / ASP.NET Core** · SQL Server · PostgreSQL
 - **IA & RPA** · OpenAI · Sklearn · UiPath · Python
 - **Data & BI** · Pandas · Data Lakes · ETL pipelines
 
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Azure-008AD7?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
