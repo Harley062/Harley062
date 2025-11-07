@@ -133,7 +133,7 @@ Desenvolvimento de soluções completas com ênfase em IA e DevOps.
 <p align="center">
   <a href="mailto:harleygteixeira@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/harleygoncalvesteixeira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="tel:+5562981967484"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://wa.me/5562981967484"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 > ⚡ *"Tecnologia é uma ponte — eu projeto soluções que atravessam obstáculos."*
