@@ -56,31 +56,12 @@
 - Desenvolvimento de pipelines de Business Intelligence (BI) e Data Lakes com Python e Pandas para extração de insights acionáveis e suporte à tomada de decisão estratégica. <!--[cite: 1] -->
 - Evolução profissional partindo da área de suporte e infraestrutura (Active Directory, Office 365, VMs Azure) até o desenvolvimento pleno de software corporativo. <!--[cite: 1] -->
 
----
-
-## 📜 Certificações
-- **AZ-900** · Microsoft Azure Fundamentals <!--[cite: 1] -->
-- **Formação OWASP** · Segurança em Aplicações Web <!--[cite: 1] -->
-- **Modelagem de Banco de Dados** · Relacional SQL Avançado <!--[cite: 1] -->
-- **Formação em Negociação** · Fundação Dom Cabral <!--[cite: 1] -->
-- **Fundamentos de Inteligência Artificial** <!--[cite: 1] -->
-
----
 
 ## 👾 Além do Código
 - 🎮 Explorando o universo expandido e a cronologia narrativa da franquia *Star Wars Jedi* (Fallen Order e Survivor).
 - 🚗 Entusiasta de mecânica e manutenção automotiva, sempre de olho na performance e diagnóstico de veículos (seja de um Voyage G6, Kicks ou Fazer 250).
 - 🍳 Aventureiro na culinária regional brasileira, testando as diferenças, receitas e nuances de preparo entre o Vatapá baiano e o paraense.
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harley062&show_icons=true&theme=transparent" height="160" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harley062&layout=compact&theme=transparent" height="160" alt="Top langs"/>
-</p>
-
----
 
 ## 📫 Contato
 <p align="center">
