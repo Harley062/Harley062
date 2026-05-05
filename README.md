@@ -7,124 +7,77 @@
   <a href="https://github.com/Harley062?tab=stars"><img src="https://img.shields.io/github/stars/Harley062?style=for-the-badge&label=Stars&cacheSeconds=300" alt="Stars"/></a>
 </p>
 
-> 🧑‍💻 **Full-Stack & AI Developer** · Bacharel em Sistemas de Informação · Entregando soluções **escaláveis, inteligentes e orientadas a dados**.
+> 🧑‍💻 **Desenvolvedor Full Stack Sênior | Arquitetura de Soluções | RPA & Inteligência Artificial** <!--[cite: 1] -->
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 **Bacharel em Sistemas de Informação (UEG)** - Conclusão em dezembro de 2025
-- 🗓️ **+4 anos** construindo **arquiteturas robustas**, **IA aplicada** e **automação inteligente**
-- 🎯 **Missão:** transformar desafios de negócio em produtos e processos eficientes
-- 🌐 **Portfólio:** [github.com/Harley062](https://github.com/Harley062)
 
-### 💼 Stack principal
-- **Arquitetura & DevOps** · Docker · Azure · AWS · CI/CD · Linux · GitLab
-- **Full-Stack** · React · Next.js · Node.js · TypeScript · FastAPI · **Python** · **C# / ASP.NET Core**
-- **Bancos de Dados** · SQL Server · PostgreSQL · MySQL · Oracle
-- **IA & RPA** · OpenAI · Sklearn · UiPath · Python
-- **Data & BI** · Pandas · Data Lakes · ETL pipelines
+- 🎓 Graduando em Sistemas de Informação pela UEG (Campus Trindade) com conclusão prevista para Julho de 2026. <!--[cite: 1] -->
+- 🗓️ **+4 anos** atuando no ciclo completo de desenvolvimento de software, do levantamento de requisitos e desenho de arquitetura à implantação e sustentação em produção. <!--[cite: 1] -->
+- 🧠 Foco prático em IA, como a integração de LLMs e desenvolvimento de agentes inteligentes para sistemas de gerenciamento de tarefas.
+- 💼 Atuação Sênior liderando projetos de alta criticidade na Synthexa Integration Technology, além de conduzir desenvolvimentos empresariais via HG Sistemas. <!--[cite: 1] -->
+- 🔗 Especialista em fluxos de integração complexos, incluindo mapeamento e roteamento estruturado de leads entre fontes XML, Moskit CRM e ferramentas de automação como Zapier.
+- 🎯 **Missão:** Transformar desafios de negócio em produtos eficientes, garantindo alinhamento estratégico entre tecnologia e resultados. <!--[cite: 1] -->
+
+### 💻 Stack Principal e Habilidades Técnicas
+
+- **Arquitetura & Design:** Clean Architecture, SOLID, Design Patterns, Microsserviços, Event-Driven <!--[cite: 1] -->
+- **Backend:** C# / .NET Core, Node.js, Python, FastAPI, NestJS <!--[cite: 1] -->
+- **Frontend:** React, Next.js, TypeScript, JavaScript <!--[cite: 1] -->
+- **Cloud & DevOps:** AWS (S3, SQS, EC2, RDS), Azure, Docker, GitLab CI/CD <!--[cite: 1] -->
+- **Bancos de Dados:** SQL Server, Oracle Database, MySQL, PostgreSQL <!--[cite: 1] -->
+- **IA & Automação:** Integração com LLMs (OpenAI), Prompt Engineering, UiPath (RPA), Power Automate, Python Automation <!--[cite: 1] -->
 
 ---
 
-## 🏢 Experiência Profissional
+## 🏢 Experiência Profissional Destacada
 
 ### **Synthexa Integration Technology**
-**Desenvolvedor Full Stack Pleno** | *maio de 2025 - Atual*
-
-Planejamento e desenvolvimento de soluções completas com foco em alinhamento estratégico e resultados de negócio.
-
-- 🏗️ **Arquitetura de Soluções:** Planejamento e implementação de arquiteturas escaláveis e seguras
-- 💻 **Desenvolvimento:** Frontend (Next.js, TypeScript) e Backend (Node.js)
-- 🔗 **Integrações:** CRM Moskit, API WhatsApp, ERP Mega
-- 🗄️ **Databases:** MySQL e Oracle para rotinas de alta performance
-- ☁️ **DevOps & Cloud:** AWS (S3, SQS), CI/CD no GitLab
+**Desenvolvedor Full Stack Sênior** | *Maio de 2025 - Atual* <!--[cite: 1] -->
+- Planejamento e implementação de arquiteturas escaláveis, seguras e resilientes com foco em Clean Architecture. <!--[cite: 1] -->
+- Desenvolvimento full-stack garantindo alta performance com Next.js, TypeScript e Node.js. <!--[cite: 1] -->
+- Implementação de integrações corporativas críticas envolvendo CRM Moskit, ERP Mega e API Oficial do WhatsApp Business (Meta Cloud API). <!--[cite: 1] -->
+- Otimização de rotinas e queries de alto volume em bancos Oracle e MySQL, aplicando tuning, indexação e análise de planos de execução. <!--[cite: 1] -->
 
 ### **BSafe Consulting**
-**Desenvolvedor Full Stack | Desenvolvedor RPA** | *junho de 2024 - Atual*
+**Desenvolvedor Full Stack | Desenvolvedor RPA** | *Junho de 2024 - Janeiro de 2026* <!--[cite: 1] -->
+- Planejamento de arquiteturas de software priorizando escalabilidade, segurança, observabilidade e baixo custo operacional. <!--[cite: 1] -->
+- Criação de soluções RPA com UiPath e Python para automatizar processos operacionais repetitivos e reduzir drasticamente o tempo de execução. <!--[cite: 1] -->
 
-Planejamento e desenvolvimento de soluções completas personalizadas.
-
-- 🏗️ **Arquitetura de Soluções:** Arquiteturas alinhadas aos objetivos do negócio
-- 💻 **Full-Stack:** Node.js, Python, React, Next.js
-- 🤖 **Automação RPA:** UiPath e Python para otimização de processos operacionais
-
-### **H.Tech Consultoria em Tecnologia**
-**Desenvolvedor Full Stack Pleno** | *dezembro de 2024 - junho de 2025*
-
-Desenvolvimento de soluções completas com ênfase em IA e DevOps.
-
-- 🏗️ **Arquitetura de Soluções:** Planejamento alinhado aos objetivos do negócio
-- 💻 **Full-Stack:** C#, Node.js, Python, React, Next.js
-- 🤖 **Inteligência Artificial:** Modelos de IA para análise de dados, documentos e automação de decisões
-- ☁️ **DevOps:** CI/CD, Docker, Azure, AWS
+### **H. Tech Consultoria em Tecnologia**
+**Desenvolvedor Full Stack Pleno** | *Dezembro de 2024 - Junho de 2025* <!--[cite: 1] -->
+- Implementação de modelos de Inteligência Artificial para análise documental, geração de relatórios e automação de decisões de negócios. <!--[cite: 1] -->
+- Diagnóstico, resolução de problemas complexos em sistemas legados e refatoração progressiva visando a redução de débito técnico. <!--[cite: 1] -->
 
 ### **Conveste Serviços Financeiros**
-**3 anos e 5 meses** | *setembro de 2021 - janeiro de 2025*
-
-**Desenvolvedor Full-Stack Pleno** | *dezembro de 2024 - janeiro de 2025*
-- Desenvolvimento end-to-end: arquitetura, entrega e sustentação
-- ASP.NET Core, C#, SQL Server, Docker, CI/CD
-- Business Intelligence com Python, Pandas e Data Lake
-
-**Desenvolvedor Full-Stack Júnior** | *setembro de 2023 - dezembro de 2024*
-- Expertise abrangente na esteira DevOps
-- Business Intelligence, automação de processos e sustentação
-- Metodologias Ágeis (Scrum)
-
-**Analista de Infraestrutura de TI / Desenvolvedor RPA** | *julho de 2022 - outubro de 2023*
-- Suporte níveis 1, 2 e 3 com foco em RPA
-- Automação com UiPath (C# e VB)
-- Gerenciamento de VMs, Azure, ETL's
-
-**Estágio de Infraestrutura de TI** | *setembro de 2021 - julho de 2022*
-- Manutenção de computadores, Office 365
-- Active Directory, automação de rotinas
-- Elaboração de documentações técnicas
+**Desenvolvedor Full Stack (Júnior a Pleno) e Analista de Infra/RPA** | *Setembro de 2021 - Janeiro de 2025* <!--[cite: 1] -->
+- Planejamento e implementação end-to-end de soluções financeiras críticas utilizando ASP.NET Core, C# e SQL Server. <!--[cite: 1] -->
+- Desenvolvimento de pipelines de Business Intelligence (BI) e Data Lakes com Python e Pandas para extração de insights acionáveis e suporte à tomada de decisão estratégica. <!--[cite: 1] -->
+- Evolução profissional partindo da área de suporte e infraestrutura (Active Directory, Office 365, VMs Azure) até o desenvolvimento pleno de software corporativo. <!--[cite: 1] -->
 
 ---
 
 ## 📜 Certificações
-- **AZ-900** · Microsoft Azure Fundamentals
-- **OWASP** · Secure Coding
-- **Modelagem SQL** · Relacional Avançado
-- **Negociação Estratégica** · Fundação Dom Cabral
-- **Fundamentos de IA**
+- **AZ-900** · Microsoft Azure Fundamentals <!--[cite: 1] -->
+- **Formação OWASP** · Segurança em Aplicações Web <!--[cite: 1] -->
+- **Modelagem de Banco de Dados** · Relacional SQL Avançado <!--[cite: 1] -->
+- **Formação em Negociação** · Fundação Dom Cabral <!--[cite: 1] -->
+- **Fundamentos de Inteligência Artificial** <!--[cite: 1] -->
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure-008AD7?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
-</p>
+## 👾 Além do Código
+- 🎮 Explorando o universo expandido e a cronologia narrativa da franquia *Star Wars Jedi* (Fallen Order e Survivor).
+- 🚗 Entusiasta de mecânica e manutenção automotiva, sempre de olho na performance e diagnóstico de veículos (seja de um Voyage G6, Kicks ou Fazer 250).
+- 🍳 Aventureiro na culinária regional brasileira, testando as diferenças, receitas e nuances de preparo entre o Vatapá baiano e o paraense.
 
 ---
 
-## 📈 Estatísticas
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harley062&show_icons=true&theme=transparent" height="160" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harley062&layout=compact&theme=transparent" height="160" alt="Top langs"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harley062&theme=transparent&hide_border=false" height="160" alt="Streak"/>
-</p>
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harley062&theme=onestar&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
@@ -138,4 +91,4 @@ Desenvolvimento de soluções completas com ênfase em IA e DevOps.
 
 > ⚡ *"Tecnologia é uma ponte — eu projeto soluções que atravessam obstáculos."*
 
-Se curtir, **⭐** o repositório ou me chame para **colaborar em algo incrível!**
+Se o meu trabalho chamou a sua atenção, deixe uma **⭐** nos meus repositórios ou entre em contato para colaborarmos!
