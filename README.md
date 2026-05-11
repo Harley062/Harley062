@@ -82,7 +82,7 @@ Hoje atuo liderando e entregando soluções que unem **visão técnica, pensamen
 ## 🏢 Experiência em destaque
 
 ### Synthexa Integration Technology
-**Desenvolvedor Full Stack Sênior** | *Maio de 2025 - Atual*
+**Desenvolvedor Full Stack Sênior**
 
 - Planejamento e implementação de arquiteturas escaláveis, seguras e resilientes para cenários de negócio críticos
 - Desenvolvimento full stack com foco em performance, confiabilidade e evolução contínua do produto
@@ -90,19 +90,19 @@ Hoje atuo liderando e entregando soluções que unem **visão técnica, pensamen
 - Otimização de rotinas e queries de alto volume em Oracle e MySQL para melhorar eficiência operacional
 
 ### BSafe Consulting
-**Desenvolvedor Full Stack | Desenvolvedor RPA** | *Junho de 2024 - Janeiro de 2026*
+**Desenvolvedor Full Stack | Desenvolvedor RPA**
 
 - Desenho de soluções com foco em escalabilidade, segurança, observabilidade e redução de custo operacional
 - Automação de processos com UiPath e Python, reduzindo esforço manual e aumentando produtividade
 
 ### H. Tech Consultoria em Tecnologia
-**Desenvolvedor Full Stack Pleno** | *Dezembro de 2024 - Junho de 2025*
+**Desenvolvedor Full Stack Pleno**
 
 - Implementação de soluções com IA para análise documental, geração de relatórios e apoio à decisão
 - Diagnóstico e evolução de sistemas legados, reduzindo débito técnico e ampliando confiabilidade
 
 ### Conveste Serviços Financeiros
-**Desenvolvedor Full Stack (Júnior a Pleno) e Analista de Infra/RPA** | *Setembro de 2021 - Janeiro de 2025*
+**Desenvolvedor Full Stack (Júnior a Pleno) e Analista de Infra/RPA**
 
 - Desenvolvimento end-to-end de soluções financeiras com ASP.NET Core, C# e SQL Server
 - Construção de pipelines de BI e Data Lakes com Python e Pandas para gerar insights acionáveis
